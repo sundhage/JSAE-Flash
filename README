@@ -1,1 +1,5 @@
-Hejsan
+JSAE - "Johan Sundhage Audio Engine"
+
+A Flash wrapper of the light-weight C++ audio engine JSAE.
+
+The original purpose of this API was to render audio with perfect synch.
