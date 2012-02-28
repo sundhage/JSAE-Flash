@@ -1,1 +1,14 @@
-To come: A bunch of Flash examples of how to use this API.
+JSAE Flash tests
+
+Test1
+
+Playing sounds and exposes how to handle synchronization and looped sounds. Also demonstrates async extraction of sound data.
+
+Test2
+
+Groups and effects demo.
+
+Test3
+
+Example of a 32x32 sound matrix for altering a drum loop.
+
