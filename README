@@ -2,4 +2,4 @@ JSAE - "Johan Sundhage Audio Engine"
 
 A Flash wrapper of the light-weight C++ audio engine JSAE.
 
-The original purpose of this API was to render audio with perfect synch.
+The original purpose of this API was to render audio with perfect synch. The Flash version consist of an Alchemy port of all low-level and cpu-demanding processing, a wrapper and a couple of help classes for asynchronous extracting audio data.
