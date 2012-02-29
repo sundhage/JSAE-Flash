@@ -11,7 +11,7 @@ Noteworthy features:
 * Very fast; plays around 60 sounds simultaneously on a 2011 macbook pro.
 
 
-This Flash version consist of an Alchemy port of all low-level and cpu-demanding processing, a wrapper and a couple of help classes for asynchronous extracting audio data. The C++ code is not available right now, only the pre-compiled swc.
+This Flash version consist of an Alchemy port of all low-level and cpu-demanding processing, a wrapper and a couple of help classes for asynchronous extracting audio data. The C++ code is not available right now, only the pre-compiled swc. When Adobe releases a non-beta version av alchemy with a proper toolchain the plan is to clean upp the C++ code and publish here.
 
 To use JSAE in a flash/flex application the file JSAE.swc must be in library path, and the src-directory in class path. Minimum flash player version is 10.
 
